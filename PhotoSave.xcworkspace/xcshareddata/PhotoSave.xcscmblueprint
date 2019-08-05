@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D0BCE76DA438F19BD2A1F78464F53B2944078714",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D0BCE76DA438F19BD2A1F78464F53B2944078714" : 9223372036854775807,
+    "39F8389A6627BB710FBD2C6B6C7A801BB87DD0F7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B2657953-B365-4E06-B7A0-C39F7FC73A72",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D0BCE76DA438F19BD2A1F78464F53B2944078714" : "PhotoSave\/",
+    "39F8389A6627BB710FBD2C6B6C7A801BB87DD0F7" : "QuickPay\/QuickPay-iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PhotoSave",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PhotoSave.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/208.76.102.30\/\/lmsyx15\/QuickPay-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "39F8389A6627BB710FBD2C6B6C7A801BB87DD0F7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/photosave\/version1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0BCE76DA438F19BD2A1F78464F53B2944078714"
+    }
+  ]
+}
